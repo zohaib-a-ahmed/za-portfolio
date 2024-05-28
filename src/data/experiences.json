@@ -1,0 +1,31 @@
+[
+    {
+        "company" : "Enterprise",
+        "position" : "Java Developer Intern",
+        "period" : "May 2023 - Aug 2023",
+        "details": [
+        "Pair-programmed with experienced engineers to drive the development of a Java Spring application to implementnew features and complete 32 Jira tickets.",
+        "Increased back-end test coverage by 12%, measured by SonarQube, by implementing and deploying unit testing forvarious services using JUnit and Mockito",
+        "Improved system efficiency by refactoring key services and reducing computational complexity."
+    ]
+    },
+    {
+        "company" : "Saint Louis University",
+        "position" : "Teaching Assistant",
+        "period" : "Jan 2023 - May 2024",
+        "details": [
+            "Assisted in teaching and reviewing object-oriented principles and software design with classes of 50+ students.",
+            "Designed and developed JUnit and pytest based auto-scoring scripts, reducing time to grade by approx. 70%.",
+            "Set up automated grading processes using GitHub Actions workflows for student repositories to streamline submission evaluations."
+        ]
+    },
+    {
+        "company" : "Lingotutors",
+        "position" : "Software Developer Intern",
+        "period" : "Jan 2022 - May 2022",
+        "details": [
+            "Developed online tutoring platform features using PHP with Laravel on an Agile-based startup.",
+            "Improved user experience and application functionality while maintaining clear version history using HTML, CSS, and Git."
+        ]
+    }
+]

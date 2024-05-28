@@ -1,0 +1,25 @@
+[
+      {
+        "title": "drivebox",
+        "subtitle": "CLI Google Drive Integration",
+        "description": "drivebox is a command-line interface, written in Golang, bridging Google Drive storage to local file systems via the command line. Files can be uploaded to and unloaded from a user's Drive account after sign in via secure OAuth authentication with Google.",
+        "image": "images/drivebox.png",
+        "stack" : [
+            "Golang",
+            "Cobra"
+        ],
+        "link": "https://github.com/zohaib-a-ahmed/drivebox"
+      },
+      {
+        "title": "Priorify",
+        "subtitle": "Productivity Manager Web App",
+        "description": "Priorify is an application that allows users to manage their own upcoming events and assignments via a calendar system. The application is divided into two parts. A NextJS frontend provides an intuitive UI and OAuth authentication with Google. It is served by Flask RESTful API that manages Supabase's PostgreSQL database storing user calendars.",
+        "image": "images/priorify.png",
+        "stack" : [
+            "Typescript",
+            "ReactJS",
+            "Python"
+        ],
+        "link": "https://github.com/zohaib-a-ahmed/priorify"
+      }
+]
