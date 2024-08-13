@@ -1,6 +1,6 @@
 
 import { Icons } from "@/components/icons";
-import { Download } from "lucide-react";
+import { Download, Home } from "lucide-react";
 
 export const DATA = {
   name: "Zohaib Ahmed",
@@ -22,9 +22,9 @@ export const DATA = {
     "JUnit",
     "Typescript",
     "React",
-    "Next.js",
-    "Node.js",
-    "PostgreSQL",
+    "NextJS",
+    "NodeJS",
+    "SQL",
     "Docker",
     'AWS',
     'Postman',
@@ -126,6 +126,33 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "CardRace",
+      href: "",
+      dates: "July 2024 - Current",
+      active: true,
+      description:
+      "Currently designing and developing an online Carbles variant. Think Monopoly, but with playing cards and marbles.",
+      technologies: [
+        "Java",
+        "Spring",
+        "Typescript",
+        "NextJS",
+        "TailwindCSS",
+        "Redis",
+        "SQL",
+        "AWS"
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/zohaib-a-ahmed/cardrace-server",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "https://pub-de22877d49bc449c808a91bb68ad4f84.r2.dev/Screen%20Recording%202024-08-13%20at%201.12.52%E2%80%AFPM.mov",
+    },
+    {
       title: "Priorify",
       href: "",
       dates: "Jan 2024 - Apr 2024",
@@ -136,7 +163,7 @@ export const DATA = {
         "Python",
         "Flask",
         "Typescript",
-        "Next.js",
+        "NextJS",
         "TailwindCSS",
         "Langchain"
       ],
