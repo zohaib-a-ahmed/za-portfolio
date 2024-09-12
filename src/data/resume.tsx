@@ -144,6 +144,11 @@ export const DATA = {
       ],
       links: [
         {
+          type: "Website",
+          href: "https://cardrace-fe.vercel.app/",
+          icon: <Icons.game className="size-3" />,
+        },
+        {
           type: "Source",
           href: "https://github.com/zohaib-a-ahmed/cardrace-server",
           icon: <Icons.github className="size-3" />,
