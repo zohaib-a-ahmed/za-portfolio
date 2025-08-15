@@ -1,4 +1,3 @@
-
 import { Icons } from "@/components/icons";
 import { Download, Home } from "lucide-react";
 
@@ -12,22 +11,20 @@ export const DATA = {
     "software engineer | cs @ ut",
   second_description: 'i just love building things and helping people.',
   summary:
-    "I am a young software engineer with experience in both startup and corporate environments. Recently, I completed my undergrad in computer science and [I am now pursuing my masters](/#education) part-time. I&apos;m really interested in ML and software development. You can often find me [building projects](/#projects) for fun.",
+    "I am a young software engineer with experience in both startup and corporate environments, currently as a developer at a defense contractor. I completed my undergrad in computer science and [I am now pursuing my masters](/#education) part-time. I&apos;m really interested in ML and software development. You can often find me [building projects](/#projects) for fun.",
   avatarUrl: "/me.png",
   skills: [
     "Python",
-    "Flask",
+    "C#",
+    ".NET",
     "Java",
     "Spring",
-    "JUnit",
     "Typescript",
     "React",
-    "NextJS",
     "NodeJS",
     "SQL",
     "Docker",
     'AWS',
-    'Postman',
     'Security+'
   ],
   navbar: [
@@ -62,46 +59,64 @@ export const DATA = {
 
   work: [
     {
+      company: "Parsons Corporation",
+      href: "",
+      badges: [],
+      location: "St. Louis, MO",
+      title: "Software Developer",
+      logoUrl: "/parsons.png",
+      start: "Feb 2025",
+      end: "Present",
+      dates: "Feb 2025 – Present",
+      links: [],
+      description: [
+        "Refactored and upgraded existing .NET applications to .NET 8, improving performance and maintainability.",
+      ],
+    },
+    {
       company: "Saint Louis University",
-      href: "https://www.efleets.com/",
+      href: "",
       badges: [],
       location: "St. Louis, MO",
       title: "Teaching Assistant",
       logoUrl: "/slu.png",
-      start: "2023",
-      end: "2024",
-      dates: 'Jan 2023 - May 2024',
+      start: "Aug 2023",
+      end: "May 2024",
+      dates: "Aug 2023 – May 2024",
       links: [],
-      description:
+      description: [
         "Implemented comprehensive JUnit and pytest auto-scoring scripts to reduce grading time by approx. 70%. Used Github Actions workflows to automate grading for 100+ repositories weekly.",
+      ],
     },
     {
-      company: "Enterprise Fleet Management",
-      href: "https://www.efleets.com/",
+      company: "Enterprise",
+      href: "",
       badges: [],
-      location: "Remote",
+      location: "St. Louis, MO",
       title: "Java Engineer Intern",
       logoUrl: "/efleets.png",
       start: "May 2023",
       end: "Aug 2023",
-      dates: 'May 2023 - Aug 2023',
+      dates: "May 2023 – Aug 2023",
       links: [],
-      description: 
+      description: [
         "Developed new features on existing Spring applications with Java and deployed comprehensive automated testing using JUnit onto AWS infrastructure, increasing static test coverage by ~12%."
+      ],
     },
     {
       company: "Lingotutors",
       href: "",
       badges: [],
-      location: "Remote",
-      title: "Frontend Engineer Intern",
+      location: "St. Louis, MO",
+      title: "Software Engineer Intern",
       logoUrl: "/lingo.png",
       start: "Jan 2022",
       end: "May 2022",
-      dates: 'Jan 2022 - May 2022',
+      dates: "Jan 2022 – May 2022",
       links: [],
-      description:
+      description: [
         "Designed new components for an online language tutoring platform using PHP, HTML, and CSS."
+      ],
     },
   ],
   education: [
@@ -111,7 +126,7 @@ export const DATA = {
       degree: "Master of Science in Computer Science",
       logoUrl: "/UT.png",
       start: "2024",
-      end: "2025",
+      end: "2026",
       description: 'Coursework: Deep Learning, Natural Language Processing, Machine Learning',
     },
     {
@@ -143,11 +158,6 @@ export const DATA = {
         "AWS"
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://cardrace-fe.vercel.app/",
-          icon: <Icons.game className="size-3" />,
-        },
         {
           type: "Source",
           href: "https://github.com/zohaib-a-ahmed/cardrace-server",
