@@ -11,7 +11,7 @@ export const DATA = {
     "software engineer | cs @ ut",
   second_description: 'i just love building things and helping people.',
   summary:
-    "I am a young software engineer with experience in both startup and corporate environments, currently as a developer at a defense contractor. I completed my undergrad in computer science and [I am now pursuing my masters](/#education) part-time. I&apos;m really interested in ML and software development. You can often find me [building projects](/#projects) for fun.",
+    "I am a young software engineer with experience in both startup and corporate environments, currently as a cleared developer at a defense contractor. I completed my undergrad in computer science and [I am now pursuing my masters](/#education) part-time. I&apos;m really interested in ML and software development. You can often find me [building projects](/#projects) for fun.",
   avatarUrl: "/me.png",
   skills: [
     "Python",
@@ -70,7 +70,7 @@ export const DATA = {
       dates: "Feb 2025 – Present",
       links: [],
       description: [
-        "Refactored and upgraded existing .NET applications to .NET 8, improving performance and maintainability.",
+        "Refactored and upgraded existing .NET Framework applications to .NET 8 Core, improving performance and maintainability.",
       ],
     },
     {
