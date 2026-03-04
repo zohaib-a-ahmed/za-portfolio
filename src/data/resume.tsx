@@ -9,9 +9,9 @@ export const DATA = {
   locationLink: "",
   description:
     "software engineer | cs @ ut",
-  second_description: 'i just love building things and helping people.',
+
   summary:
-    "I am a young software engineer with experience in both startup and corporate environments, currently as a cleared developer at a defense contractor. I completed my undergrad in computer science and [I am now pursuing my masters](/#education) part-time. I&apos;m really interested in ML and software development. You can often find me [building projects](/#projects) for fun.",
+    "I am a younger developer with experience across the software development space in different environments. Currently, I am doing cleared work on a defense contract. Additionally, I am a master's student at [UT](/#education), where I am studying ML fundamentals and applications. As of right now, I am trying to play with optimizing token efficiency with autonomous agents in my downtime.",
   avatarUrl: "/me.png",
   skills: [
     "Python",
@@ -108,7 +108,7 @@ export const DATA = {
       end: "May 2022",
       dates: "Jan 2022 – May 2022",
       links: [],
-      description: "Designed new components for an online language tutoring platform using PHP, HTML, and CSS.",
+      description: "Designed new components for an online language tutoring platform using PHP, HTML, and CSS. Basically learned to use git and work on software as a team.",
     },
   ],
   education: [

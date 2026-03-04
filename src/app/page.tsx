@@ -29,11 +29,6 @@ export default function Page() {
                 delay={BLUR_FADE_DELAY}
                 text={DATA.description}
               />
-              <BlurFadeText
-                className="max-w-[600px] md:text-lg"
-                delay={BLUR_FADE_DELAY}
-                text={DATA.second_description}
-              />
             </div>
             <BlurFade delay={BLUR_FADE_DELAY}>
               <Avatar className="size-28 border">
