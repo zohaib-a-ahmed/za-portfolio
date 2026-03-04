@@ -69,9 +69,7 @@ export const DATA = {
       end: "Present",
       dates: "Feb 2025 – Present",
       links: [],
-      description: [
-        "Refactored and upgraded existing .NET Framework applications to .NET 8 Core, improving performance and maintainability.",
-      ],
+      description: "Refactored and upgraded existing .NET Framework applications to .NET 8 Core, improving performance and maintainability.",
     },
     {
       company: "Saint Louis University",
@@ -84,9 +82,7 @@ export const DATA = {
       end: "May 2024",
       dates: "Aug 2023 – May 2024",
       links: [],
-      description: [
-        "Implemented comprehensive JUnit and pytest auto-scoring scripts to reduce grading time by approx. 70%. Used Github Actions workflows to automate grading for 100+ repositories weekly.",
-      ],
+      description: "Implemented comprehensive JUnit and pytest auto-scoring scripts to reduce grading time by approx. 70%. Used Github Actions workflows to automate grading for 100+ repositories weekly.",
     },
     {
       company: "Enterprise",
@@ -99,9 +95,7 @@ export const DATA = {
       end: "Aug 2023",
       dates: "May 2023 – Aug 2023",
       links: [],
-      description: [
-        "Developed new features on existing Spring applications with Java and deployed comprehensive automated testing using JUnit onto AWS infrastructure, increasing static test coverage by ~12%."
-      ],
+      description: "Developed new features on existing Spring applications with Java and deployed comprehensive automated testing using JUnit onto AWS infrastructure, increasing static test coverage by ~12%.",
     },
     {
       company: "Lingotutors",
@@ -114,9 +108,7 @@ export const DATA = {
       end: "May 2022",
       dates: "Jan 2022 – May 2022",
       links: [],
-      description: [
-        "Designed new components for an online language tutoring platform using PHP, HTML, and CSS."
-      ],
+      description: "Designed new components for an online language tutoring platform using PHP, HTML, and CSS.",
     },
   ],
   education: [
@@ -143,7 +135,7 @@ export const DATA = {
     {
       title: "CardRace",
       href: "",
-      dates: "July 2024 - Current",
+      dates: "July 2024 - Nov 2024",
       active: true,
       description:
       "Currently designing and developing an online Carbles variant. Think Monopoly, but with playing cards and marbles.",
