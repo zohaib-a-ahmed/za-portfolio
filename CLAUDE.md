@@ -33,4 +33,4 @@ This is a Next.js 14 personal portfolio site. All personal data is centralized i
 
 **Path alias:** `@/` maps to `src/`.
 
-**Deployment:** Vercel. The `DATA.url` field in `resume.tsx` must match the deployed URL as it's used for OpenGraph and structured data metadata.
+**Deployment:** Self-hosted on Oracle Cloud (gojo server) behind nginx reverse proxy. Live at `https://about.zahmed.net`. The `DATA.url` field in `resume.tsx` must match the deployed URL as it's used for OpenGraph and structured data metadata.

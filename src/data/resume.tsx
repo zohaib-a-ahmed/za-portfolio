@@ -4,7 +4,7 @@ import { Download, Home } from "lucide-react";
 export const DATA = {
   name: "Zohaib Ahmed",
   initials: "DV",
-  url: "https://zahmed.dev",
+  url: "https://about.zahmed.net",
   location: "St. Louis,",
   locationLink: "",
   description:
