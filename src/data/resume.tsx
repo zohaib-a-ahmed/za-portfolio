@@ -11,7 +11,7 @@ export const DATA = {
     "software engineer | cs @ ut",
 
   summary:
-    "I am a younger developer with experience across the software development space in different environments. Currently, I am doing cleared work on a defense contract. Additionally, I am a master's student at [UT](/#education), where I am studying ML fundamentals and applications. As of right now, I am trying to play with optimizing token efficiency with autonomous agents in my downtime.",
+    "I am a younger developer with experience across the software development space across different environments. Currently, I am doing cleared contracting work, but I may be open to all kinds of opportunities. Additionally, I am a master's student at [UT](/#education), where I am studying AI fundamentals and it's applications. Right now I'm probably vibe coding the next trillion dollar company",
   avatarUrl: "/me.png",
   skills: [
     "Python",
